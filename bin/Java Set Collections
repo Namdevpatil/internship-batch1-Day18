@@ -1,0 +1,28 @@
+Set Collections:
+	- Set is a value-based collections
+	- A collection that contains no duplicate elements.
+	- Maintains no insertion order.
+	
+	
+Set(I)
+  - HashSet(C)
+  - LinkedHashSet(C)
+  - TreeSet(C)- supports to do sorting
+  
+HashSet(C):
+	- Set is a value-based collections
+	- A collection that contains no duplicate elements.
+	- Maintains no insertion order.
+	- it support null values
+
+LinkedHashSet(C):
+	- Set is a value-based collections
+	- A collection that contains no duplicate elements.
+	- * Maintains insertion order.
+	- it support null values
+	
+TreeSet(C):
+	- Set is a value-based collections
+	- A collection that contains no duplicate elements.
+	- Maintains ascending sorted order.
+	- it not support null values

@@ -1,0 +1,39 @@
+Map Collections:
+	- This collection key-value based collections
+	- Map collection that contains only unique keys and one null key.
+	- Maintains no insertion order.
+	- ** The 'key-value' pair collectively we can call as an entry.
+	
+Map(I)
+  - HashMap(C)
+  - LinkedHashMap(C)
+  - TreeMap(C)- supports to do sorting
+  - Hashtable
+  
+HashMap(C):
+	- This collection key-value based collections
+	- HashMap is implementation of the Map interface.
+	- HashMap collection that contains only unique keys and duplicate values.
+	- HashMap able support only one null key and multiple null values.
+	- Maintains no insertion order.
+	
+LinkedHashMap(C):
+	- This collection key-value based collections
+	- LinkedHashMap is implementation of the Map interface.
+	- LinkedHashMap collection that contains only unique keys and duplicate values.
+	- HashMap able support only one null key and multiple null values.
+	- Maintains insertion order.
+
+TreeMap(C):
+	- This collection key-value based collections
+	- TreeMap is implementation of the Map interface.
+	- TreeMap collection that contains only unique keys and duplicate values.
+	- TreeMap not able support null key and but support multiple null values.
+	- Maintains ascending order.	
+	
+Hashtable(C):
+	- This collection key-value based collections
+	- Hashtable is implementation of the Map interface.
+	- Hashtable collection that contains only unique keys and duplicate values.
+	- * Hashtable not able support null key and null values.
+	- * Maintains no insertion order.	
